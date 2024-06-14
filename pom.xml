@@ -13,8 +13,8 @@
         <!-- Ensure all dependencies are inside this section -->
         <dependency>
             <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.13.2</version>
+            <artifactId>hhh</artifactId>
+            <version>4.0.0</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
