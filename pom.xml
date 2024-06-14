@@ -7,7 +7,7 @@
     
     <groupId>com.mycompany</groupId>
     <artifactId>com.mycompany</artifactId>
-    <version>0.3.6</version>
+    <version>0.3.7</version>
     
     <dependencies>
         <!-- Ensure all dependencies are inside this section -->
