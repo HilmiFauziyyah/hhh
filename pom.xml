@@ -12,10 +12,10 @@
     <dependencies>
         <!-- Ensure all dependencies are inside this section -->
         <dependency>
-            <groupId>junit</groupId>
-            <artifactId>hhh</artifactId>
-            <version>5.8.2</version>
-            <scope>test</scope>
+         <groupId>org.junit.jupiter</groupId>
+        <artifactId>junit-jupiter</artifactId>
+        <version>5.8.2</version>
+        <scope>test</scope>
         </dependency>
     </dependencies>
     
